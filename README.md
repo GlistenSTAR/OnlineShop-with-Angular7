@@ -1,6 +1,6 @@
 # Online Shop Application with angular framework
 
-#### this project made by danil.S
+#### this project made by danilshelikhov
 
 #### A full-stack Online Shop web application using Spring Boot 2 and Angular 7. 
 This is a Single Page Appliaction with client-side rendering. It includes [backend] and [frontend] two seperate projects on different branches.
